@@ -1,0 +1,104 @@
+.img img{
+  width:50px;
+}
+.log h1{
+  margin:auto;
+  width:200px;
+  
+}
+form{
+  text-align:center;
+  border:none;
+  margin-top:60px;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-left:40px;
+  margin-right:40px;
+  border-radius:20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.text{
+  padding:10px;
+  margin-bottom:10px;
+  border:2px solid;
+  border-radius:15px;
+  border-color:#CCCCCC;
+}
+.pass{
+  padding:10px;
+  border:2px solid;
+  border-radius:15px;
+  border-color:#CCCCCC;
+}
+.forget a{
+  font-size:13px;
+  color:black;
+  margin-left:-70px;
+  text-decoration:none;
+}
+.forget a:hover{
+  color:#cb202d;
+}
+.forget button{
+  margin-top:20px;
+  padding-left:80px;
+  padding-right:80px;
+  padding-top:7px;
+  padding-bottom:7px;
+  border-radius:20px;
+  background-color:#cd202d;
+  color:white;
+  border:none;
+}
+.forget button:hover{
+  color:black;
+}
+.facebook button{
+  margin-top:3px;
+  padding-left:25px;
+  padding-right:25px;
+  border-radius:25px;
+  padding-top:7px;
+  padding-bottom:7px;
+  background-color:#0A66C2;
+  color:white;
+  border:none;
+  
+}
+.facebook button:hover{
+  color:black;
+}
+.google button{
+  margin-top:10px;
+  padding-left:34px;
+  padding-right:34px;
+  padding-top:7px;
+  padding-bottom:7px;
+  border-radius:25px;
+  background-color:lightgrey;
+  border:none;
+  
+}
+.google button:hover{
+  color:white;
+}
+.google p{
+  font-size:10px;
+  margin-left:auto;
+  
+  color:grey;
+}
+.google hr{
+  width:100px;
+}
+.last p{
+  font-size:10px;
+  color:dimgray;
+}
+.last a{
+  text-decoration:none;
+  color:black;
+}
+.last a:hover{
+  color:#cd202d;
+}
